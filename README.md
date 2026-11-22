@@ -1,4 +1,4 @@
-# UnscrollⒷ
+# Unscroll<sup>Ⓑ</sup>
 
 AI Label: B-[{C}](https://mebebruno.github.io/BrunosAILabelSystem/explain.html?code)
 
